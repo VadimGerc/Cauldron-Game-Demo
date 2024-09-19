@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 180a93202a7a54646a2c2cf1b8450e87
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Onion
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 692
+        width: 258
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -33, y: 139}
+        - {x: -49, y: 74}
+        - {x: -106, y: 12}
+        - {x: -108, y: -52}
+        - {x: -61, y: -111}
+        - {x: 20, y: -125}
+        - {x: 104, y: -69}
+        - {x: 96, y: 20}
+        - {x: 42, y: 66}
+        - {x: 33, y: 136}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be17055035544e068c7c585ac559131
+      internalID: 436878660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 702
+        width: 234
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 152}
+        - {x: -62, y: 122}
+        - {x: -82, y: 73}
+        - {x: -87, y: -60}
+        - {x: -44, y: -124}
+        - {x: 13, y: -147}
+        - {x: 80, y: -108}
+        - {x: 104, y: 25}
+        - {x: 64, y: 123}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32895e60d6ada4a21b605e0e3c84a243
+      internalID: 1693819444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pepper
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 700
+        width: 272
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 70, y: 98}
+        - {x: 61, y: 139}
+        - {x: 9, y: 147}
+        - {x: -29, y: 109}
+        - {x: -91, y: 91}
+        - {x: -122, y: 28}
+        - {x: -94, y: -105}
+        - {x: -41, y: -138}
+        - {x: 6, y: -133}
+        - {x: 74, y: -132}
+        - {x: 114, y: -39}
+        - {x: 118, y: 77}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c211f4bda1ab14342b4185523ecc3470
+      internalID: -393643185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meat
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 234
+        width: 300
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 38, y: 198}
+        - {x: -23, y: 217}
+        - {x: -68, y: 65}
+        - {x: -136, y: -12}
+        - {x: -114, y: -145}
+        - {x: -42, y: -197}
+        - {x: 83, y: -187}
+        - {x: 131, y: -88}
+        - {x: 119, y: -3}
+        - {x: 51, y: 109}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cef324280f04768b49c16aa633a75e
+      internalID: 1853597154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 241
+        width: 279
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 94.5, y: 98.5}
+        - {x: 125.5, y: 147.5}
+        - {x: 114.5, y: 195.5}
+        - {x: 81.5, y: 213.5}
+        - {x: 29.5, y: 211.5}
+        - {x: -32.5, y: 83.5}
+        - {x: -45.5, y: 6.5}
+        - {x: -83.5, y: -67.5}
+        - {x: -104.5, y: -140.5}
+        - {x: -107.5, y: -204.5}
+        - {x: -63.5, y: -196.5}
+        - {x: -9.5, y: -84.5}
+        - {x: 40.5, y: -25.5}
+        - {x: 53.5, y: 19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c83eea9ea4944fabad148cba7007336
+      internalID: 208251078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Onion: 436878660
+      Potato: 1693819444
+      Pepper: -393643185
+      Carrot: 208251078
+      Meat: 1853597154
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
